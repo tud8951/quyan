@@ -2,4 +2,4 @@
 性别：女
 生日：6.30
 王者荣耀：id：秋日不必早 段位：星耀V 贵6 皮肤：106个 英雄：108个 常玩英雄：西施（4575分，胜率57.5%）
-!(王者主页)[https://bigjackson.us.kg/quyan/1.jpg]
+![王者主页](https://bigjackson.us.kg/quyan/1.jpg)
